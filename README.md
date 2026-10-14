@@ -18,4 +18,5 @@ Machine learning project on road accident data (2019-2023) with weather conditio
 Open the notebook from GitHub: File → Open notebook → GitHub tab.
 
 ## Team
-- YASHRNN13
+- Yash Gupta
+- Asavare Trivedi
